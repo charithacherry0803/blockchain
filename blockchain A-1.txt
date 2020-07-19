@@ -1,0 +1,41 @@
+QUESTION 1:
+what is your understing of blockchain?
+Blockchain is a mix of Distributed databases and Cryptography.
+Where information is,
+	1. Unchangeable
+	2. Verifiable
+	3. Tamper proofed
+	4.Immutable
+
+QUESTION 2:
+What is the core problem Blockchain trying to solve?
+  - Authenticity
+  - Security of data
+  - need of third party trust
+
+QUESTION 3:
+What are the few features which blockchain give you?
+These are the some of the feauters which blockchain gives us;
+	Decentralized System
+	Better security
+	Immutable
+	verifiable
+	Tamper proof
+	Faster Settlement
+	Cannot be corrupted
+
+QUESTION 4:
+What all the things does a block contain?
+A block contains;
+	Block Number
+	Transaction records
+	Previous block Signature
+	Mining key
+
+QUESTION 5:
+How is the verifiability of Blockchain has been attained?
+The verifiability can be attained by the hash of the previous block. a small change differs a fingerprint.
+The current fingerprint is generated from current data and previous fingerprint.
+This encrypted data is shared with all the users in the system, so everyone will have same fingerprint.
+If a user's fingerprint is different it means there is some change in the users data which is been verified from other users.	
+	PREVIOUS FINGERPRINT+NEW DATA =CURRENT FINGERPRINT.
